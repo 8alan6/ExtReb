@@ -1,7 +1,14 @@
+body {
+  background-color: black;
+}
 h1 {
-  color: Blue;
+  color: white;
 }
 
 h3 {
-  color: Blue;
+  color: white;
+}
+
+ol {
+  color: white;
 }
